@@ -1,6 +1,6 @@
 # show-list-user-adminlte
-a. Menampilkan list user berdasarkan API berikut: https://reqres.in/api/users?page=2
-b. Menampilkan detail user dengan id = 2 berdasarkan API berikut: https://reqres.in/api/users/2
+1. Menampilkan list user berdasarkan API berikut: https://reqres.in/api/users?page=2 
+2. Menampilkan detail user dengan id = 2 berdasarkan API berikut: https://reqres.in/api/users/2
 
 How to install or run this project:
 1. Clone this project
